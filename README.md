@@ -1,1 +1,11 @@
 # Atividade-Adriana
+## Dados de vendas de sorvetes
+[Ice Cream Sales - temperatures.csv](https://github.com/user-attachments/files/27782014/Ice.Cream.Sales.-.temperatures.csv)
+
+<img width="1914" height="1033" alt="image" src="https://github.com/user-attachments/assets/fb29c791-2080-422f-ab00-44209a4fcbc6" />
+
+## Atividade da professora adriana, conjuto de dados cerveja
+<img width="1910" height="1026" alt="Captura de tela 2026-05-15 222446" src="https://github.com/user-attachments/assets/f9029ad9-7fd6-4c6d-b087-2d4fb09982c9" />
+
+## Atividade da professora adriana, dashboard sorvete e cerveja, temperatura
+<img width="1913" height="1031" alt="image" src="https://github.com/user-attachments/assets/6c619133-992c-43d7-be50-96f0f3618a92" />
